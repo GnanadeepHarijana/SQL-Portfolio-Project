@@ -1,6 +1,6 @@
 # HR Analytics Project – SQL + Power BI Dashboard
 
-This project involves **data cleaning, transformation, and analysis** of a Human Resources dataset using **SQL** and **Power BI**. The goal is to uncover insights related to employee demographics, tenure, hiring trends, and attrition, and present them in a visually interactive dashboard.
+This project involves **Data cleaning, transformation, and analysis** of a Human Resources dataset using **SQL** and **Power BI**. The goal is to uncover insights related to employee demographics, tenure, hiring trends, and attrition, and present them in a visually interactive dashboard.
 
 ---
 
@@ -20,9 +20,9 @@ This project involves **data cleaning, transformation, and analysis** of a Human
 
 | File Name | Description |
 |-----------------------------|--------------------------------------------------|
-| `Code_File.sql` | Full SQL script for data cleaning & analysis | (https://github.com/GnanadeepHarijana/SQL-Portfolio-Project/blob/main/Code_File.sql) |
-| `HR_dashboard.pbix` | Power BI report file with visualizations | (https://github.com/GnanadeepHarijana/SQL-Portfolio-Project/blob/main/HR_Dashboard.pbix)
-| `HR_Dashboard.pdf`| Exported view of the Power BI dashboard |
+| `Code_File.sql` | Full SQL script for data cleaning & analysis | https://github.com/GnanadeepHarijana/SQL-Portfolio-Project/blob/main/Code_File.sql |
+| `HR_dashboard.pbix` | Power BI report file with visualizations | https://github.com/GnanadeepHarijana/SQL-Portfolio-Project/blob/main/HR_Dashboard.pbix |
+| `HR_Dashboard.pdf`| Exported view of the Power BI dashboard |  https://github.com/GnanadeepHarijana/SQL-Portfolio-Project/blob/main/HR_Dashboard.pdf |
 
 ---
 
