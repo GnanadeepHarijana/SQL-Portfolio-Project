@@ -4,8 +4,6 @@ A comprehensive SQL project involving data cleaning, transformation, and analysi
 #Technologies Used
 
 MySQL
-SQL
-
 
 #Overview
 
