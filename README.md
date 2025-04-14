@@ -1,67 +1,65 @@
-# SQL-Portfolio-Project
- A comprehensive SQL project involving data cleaning, transformation, and analysis on a human resources dataset. The project includes converting inconsistent date formats, calculating employee age, and generating insights such as gender and race distributions, age brackets, location-based employment, turnover rates, and hiring trends.
+# HR Analytics Project – SQL + Power BI Dashboard
 
-#Technologies Used
+This project involves **data cleaning, transformation, and analysis** of a Human Resources dataset using **SQL** and **Power BI**. The goal is to uncover insights related to employee demographics, tenure, hiring trends, and attrition, and present them in a visually interactive dashboard.
 
- MySQL
+---
 
-#Overview
+## Project Overview
 
- This project focuses on analyzing a human resources dataset using SQL. It includes:
+- **SQL** was used to clean and standardize the dataset (dates, null handling, age calculation).
+- Analytical queries were created to extract key HR insights.
+- **Power BI** was used to visualize those insights with interactive charts and dashboards.
 
-Data cleaning and standardization of date formats
-
-Data type conversions
-
-Adding computed fields like employee age
-
-Extracting insights about employees based on gender, race, age, location, and more
-
-
+---
 #Dataset
 
  The Dataset is Available as [Raw Data.csv] (https://github.com/GnanadeepHarijana/SQL-Portfolio-Project/blob/main/Raw%20Data.csv)
+## Files in This Repository
 
+---
 
- The dataset includes information about employees such as:
+| File Name | Description |
+|-----------------------------|--------------------------------------------------|
+| `Code_File.sql` | Full SQL script for data cleaning & analysis | (https://github.com/GnanadeepHarijana/SQL-Portfolio-Project/blob/main/Code_File.sql) |
+| `HR_dashboard.pbix` | Power BI report file with visualizations |
+| `HR_Dashboard.pdf`| Exported view of the Power BI dashboard |
 
-Birthdate
+---
 
-Hire and termination dates
+## SQL Analysis Highlights
 
-Gender, race, department, and location
+1. **Data Cleaning & Transformation**:
+   - Standardized `birthdate`, `hire_date`, and `termdate` formats
+   - Calculated age from birthdate
+   - Converted string dates to `DATE` type for consistency
 
+2. **HR Insights**:
+   - Gender and race distribution of current employees
+   - Age distribution by gender and bracket
+   - Average employment length for terminated employees
+   - Turnover rate by department
+   - Year-over-year hiring vs terminations
 
-#Key Analyses
+---
 
- 1. Data Cleaning:
+## Power BI Dashboard Features
 
-Fixed inconsistent date formats (e.g., birthdate, hire_date, termdate)
+- **Demographic Overview**: Gender, race, age brackets
+- **Employment Trends**: Hiring vs Termination by year
+- **Attrition Analysis**: Department-level turnover rate
+- **Departmental View**: Gender distribution across departments
+- **Location Analysis**: HQ vs Remote employment distribution
 
-Converted data types to appropriate SQL formats
+---
 
-Handled null or empty fields
+## Tools Used
 
+- **SQL (MySQL)**
+- **Power BI Desktop**
+- **DAX & Power Query Editor**
 
-2. Insightful Queries:
+---
 
-Gender and race distribution of current employees
-
-Age group breakdown by gender
-
-Employee counts by location (HQ vs Remote)
-
-Average employment length for terminated employees
-
-Department-wise gender distribution
-
-Turnover rates by department
-
-Yearly hiring vs termination trends
-
-#Code
- The Complete Code is Available in .sql file, [Code_File.sql] 
-    (https://github.com/GnanadeepHarijana/SQL-Portfolio-Project/blob/main/Code_File.sql)
 
 
 
