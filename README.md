@@ -59,7 +59,9 @@ Turnover rates by department
 
 Yearly hiring vs termination trends
 
-
+#Code
+ The Complete Code is Available in .sql file, [Code_File.sql] 
+    (https://github.com/GnanadeepHarijana/SQL-Portfolio-Project/blob/main/Code_File.sql)
 
 
 
