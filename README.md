@@ -21,7 +21,7 @@ This project involves **data cleaning, transformation, and analysis** of a Human
 | File Name | Description |
 |-----------------------------|--------------------------------------------------|
 | `Code_File.sql` | Full SQL script for data cleaning & analysis | (https://github.com/GnanadeepHarijana/SQL-Portfolio-Project/blob/main/Code_File.sql) |
-| `HR_dashboard.pbix` | Power BI report file with visualizations |
+| `HR_dashboard.pbix` | Power BI report file with visualizations | (https://github.com/GnanadeepHarijana/SQL-Portfolio-Project/blob/main/HR_Dashboard.pbix)
 | `HR_Dashboard.pdf`| Exported view of the Power BI dashboard |
 
 ---
